@@ -12,7 +12,7 @@
         <logback.version>1.0.13</logback.version>
         <spring.version>4.0.0.RELEASE</spring.version>
         <spring.security.version>3.2.0.RELEASE</spring.security.version>
-        <spring.data.jpa.version>1.4.1.RELEASE</spring.data.jpa.version>
+        <spring.data.jpa.version>2.7.0</spring.data.jpa.version>
         <querydsl.version>3.3.0</querydsl.version>
         <jackson.version>2.2.3</jackson.version>
         <hibernate.version>4.2.3.Final</hibernate.version>
